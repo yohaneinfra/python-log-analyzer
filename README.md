@@ -7,6 +7,7 @@ Pythonでログ解析を行うツールです。
 - ERROR件数集計
 - WARNING件数集計
 - 日付別抽出
+- Slack通知連携
 
 ## Skills
 - Python
